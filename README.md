@@ -1,4 +1,4 @@
-# 🌟 Data Structures & Python Practical Programs
+# 🌟 Module_1
 
 <div align="center">
 
